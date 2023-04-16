@@ -1,0 +1,13 @@
+.button {
+	padding: 16px 32px;
+	background: #ffb400;
+	border-radius: 5px;
+	font-family: $font-primary;
+	font-weight: 500;
+	transition: $animation;
+
+	&:hover {
+		transform: scale(1.2);
+		color: $light-text-color;
+	}
+}

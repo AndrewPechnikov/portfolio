@@ -1,0 +1,36 @@
+.hero-header {
+	&__container {
+		background-color: $light-text-color;
+		padding-top: 93px;
+		padding-left: 60px;
+		padding-bottom: 74px;
+		margin-bottom: 138px;
+	}
+
+	&__text-content {
+		width: 500px;
+	}
+
+	&__title {
+		font-family: $font-primary;
+		font-size: 48px;
+		line-height: 123.6%;
+		font-weight: 700;
+		margin-bottom: 18px;
+		&--yellow {
+			color: $main-color;
+		}
+	}
+
+	&__discription {
+		font-family: $font-primary;
+		font-weight: 400;
+		font-size: 16px;
+		line-height: 150%;
+		color: $grey-text-color;
+		margin-bottom: 25px;
+	}
+
+	&__avatar {
+	}
+}
