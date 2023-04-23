@@ -1,3 +1,4 @@
-import './sass/index.scss';
+import "./sass/index.scss";
+import "./localStorage";
 
-alert('webpack - success!');
+// alert('webpack - success!');
