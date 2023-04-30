@@ -1,0 +1,94 @@
+{
+	"name": "Portfolio PWA",
+	"theme_color": "#ffb400",
+	"background_color": "#ffb400",
+	"display": "standalone",
+	"orientation": "portrait",
+	"start_url": ".",
+	"icons": [
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-16.png",
+			"sizes": "16x16"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-20.png",
+			"sizes": "20x20"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-24.png",
+			"sizes": "24x24"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-30.png",
+			"sizes": "30x30"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-32.png",
+			"sizes": "32x32"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-36.png",
+			"sizes": "36x36"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-40.png",
+			"sizes": "40x40"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-44.png",
+			"sizes": "44x44"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-48.png",
+			"sizes": "48x48"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-60.png",
+			"sizes": "60x60"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-64.png",
+			"sizes": "64x64"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-72.png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-80.png",
+			"sizes": "80x80"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-96.png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "./image/icons/windows11/Square44x44Logo.altform-lightunplated_targetsize-256.png",
+			"sizes": "256x256"
+		},
+		{
+			"src": "./image/icons/android/android-launchericon-512-512.png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "./image/icons/android/android-launchericon-192-192.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "./image/icons/android/android-launchericon-144-144.png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "./image/icons/android/android-launchericon-96-96.png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "./image/icons/android/android-launchericon-72-72.png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "./image/icons/android/android-launchericon-48-48.png",
+			"sizes": "48x48"
+		}
+	]
+}
