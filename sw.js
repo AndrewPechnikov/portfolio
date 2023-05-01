@@ -40,8 +40,5 @@ async function networkFirst(request) {
 		const response = await fetch(request);
 		await cache.put(request, response.clone());
 		return response;
-	} catch (e) {
-		const cached = await cache.match(request);
-		return cached ?? (await caches.match("./offline.html"));
 	}
 }
