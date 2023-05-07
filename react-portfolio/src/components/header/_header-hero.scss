@@ -1,10 +1,9 @@
 .hero-header {
 	&__container {
+		display: flex;
 		background-color: $light-text-color;
-		padding-top: 93px;
-		padding-left: 60px;
-		padding-bottom: 74px;
-		margin-bottom: 138px;
+		justify-content: space-around;
+		height: 467px;
 	}
 
 	&__text-content {
@@ -32,5 +31,6 @@
 	}
 
 	&__avatar {
+		object-fit: cover;
 	}
 }

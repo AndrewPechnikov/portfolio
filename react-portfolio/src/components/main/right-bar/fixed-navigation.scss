@@ -36,14 +36,25 @@
 	// .fixed-navigation__item
 
 	&__item {
+		display: flex;
+		justify-content: center;
+
+		& svg {
+			fill: $grey-text-color;
+			transition: $animation;
+		}
+		align-items: center;
 		width: 40px;
 		height: 40px;
 		border-radius: 50%;
-		background-color: $grey-text-color;
+		background-color: $transparent-grey-color;
 		transition: $animation;
 		&:hover {
 			background-color: $main-color;
 			transform: scale(1.2);
+		}
+		&:hover svg {
+			fill: black;
 		}
 	}
 }
