@@ -1,4 +1,4 @@
-import ref from "./../../image/svg_sprite.svg";
+import ref from "./../image/svg_sprite.svg";
 
 function svgIcon({ iconName, className, width, height }) {
 	return (

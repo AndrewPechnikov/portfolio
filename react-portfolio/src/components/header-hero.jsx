@@ -1,4 +1,4 @@
-import photo from "./../../image/my_photo.jpg";
+import photo from "./../image/my_photo.jpg";
 
 function headerComponent() {
 	return (

@@ -1,5 +1,5 @@
-import photo from "./../../../image/avatar.jpg";
-import SVG from "../../blocks/svg-icon";
+import photo from "./../image/my_photo.jpg";
+import SVG from "./svg-icon";
 
 function leftBar() {
 	return (

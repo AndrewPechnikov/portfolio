@@ -1,4 +1,4 @@
-import SVG from "./../../blocks/svg-icon";
+import SVG from "./svg-icon";
 
 function rightBar() {
 	return (

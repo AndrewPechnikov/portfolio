@@ -1,6 +1,6 @@
 import Leftbar from "./left-bar";
 import Rightbar from "./right-bar";
-import Portfolio from "./portdolio";
+import Portfolio from "./portfolio";
 
 function mainComponent() {
 	return (
